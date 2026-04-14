@@ -1,2 +1,2 @@
-﻿Hello from VS Code!
-This is the testing text file.
+﻿Hello from Testing practice 24!
+This is the testing text file....
